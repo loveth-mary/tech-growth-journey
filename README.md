@@ -1,6 +1,7 @@
 TECH GROWTH JOURNEY
 
 OVERVIEW
+
 Two weeks ago, I shared a completed project that demonstrated a multi-page website structure and styling.
 I have now decided to restart and document step-by-step to better showcase my learning progression and technical growth.
 This repository will serve as a living project where I continuously improve and expand the website as I learn new concepts.
@@ -16,6 +17,7 @@ This version includes:
 6. Description lists
 
 GOAL
+
 To progressively enhance this project by adding:
 1. Tables
 2. Forms
