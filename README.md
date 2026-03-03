@@ -27,7 +27,7 @@ To progressively enhance this project by adding:
 
 Each update will reflect my learning journey and technical improvement.
 
-LIVE DEMOS
+LIVE DEMO
 
 https://loveth-mary.github.io/tech-growth-journey/
 
