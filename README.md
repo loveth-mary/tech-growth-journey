@@ -26,3 +26,6 @@ To progressively enhance this project by adding:
 5. JavaScript interactivity
 
 Each update will reflect my learning journey and technical improvement.
+
+LIVE DEMO
+https://loveth-mary.github.io/tech-growth-journey/
