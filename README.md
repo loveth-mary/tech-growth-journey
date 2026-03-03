@@ -30,5 +30,3 @@ Each update will reflect my learning journey and technical improvement.
 LIVE DEMO
 
 https://loveth-mary.github.io/tech-growth-journey/
-
-https://loveth-mary.github.io/frontend-foundations-weeks-1-4/
