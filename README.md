@@ -27,6 +27,15 @@ To progressively enhance this project by adding:
 
 Each update will reflect my learning journey and technical improvement.
 
+
+VERSION 2
+
+Added Table and Form
+
+In this update, I added a table and a form to my project. I created them using HTML and connected them to other pages in the project. This helped improve my understanding of linking pages together.
+For the table, I used rowspan to make the layout organized and readable. In the form, adding elements like buttons, checkboxes, and 0ther input types was challenging, but I practiced and learned how to implement them confidently.
+Next is to add media before going on to CSS styling and more interactive feature with JavaScript to enhance the user experience and functionality of the project.
+
 LIVE DEMO
 
 https://loveth-mary.github.io/tech-growth-journey/
