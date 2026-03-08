@@ -36,6 +36,14 @@ In this update, I added a table and a form to my project. I created them using H
 For the table, I used rowspan to make the layout organized and readable. In the form, adding elements like buttons, checkboxes, and 0ther input types was challenging, but I practiced and learned how to implement them confidently.
 Next is to add media before going on to CSS styling and more interactive feature with JavaScript to enhance the user experience and functionality of the project.
 
+
+VERSION 3
+
+Added Media
+
+I added a few mwdia elements (image, audio, and video) to my project. 
+Next, I will be working on CSS styling to enhance the design and layout.
+
 LIVE DEMO
 
 https://loveth-mary.github.io/tech-growth-journey/
