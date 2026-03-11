@@ -58,6 +58,9 @@ label{
     margin-top: 10px;
     text-align: ;
 }
+input[type="checkbox"], input[type="radio"]{
+    vertical-align: middle;
+}
 button{
     padding: 8px 16px;
     border: none;
